@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21026316063",
+    "project_id": "fir-uvg-b9d04",
+    "storage_bucket": "fir-uvg-b9d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21026316063:android:9fb6bf7ec5d7266c43da2a",
+        "android_client_info": {
+          "package_name": "com.prueba.ejerciciofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21026316063-8imk089b48r2k09u4ivkbr38v284hodq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq7AAhzs2N3zCHXceZ2QYGZySPCNXuTNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21026316063-8imk089b48r2k09u4ivkbr38v284hodq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
